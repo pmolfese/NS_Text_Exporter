@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {addFile = id; convert = id; }; 
+            CLASS = UIControl; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                convertButton = id; 
+                fileController = id; 
+                normalize = id; 
+                progressBar = id; 
+                tableView = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

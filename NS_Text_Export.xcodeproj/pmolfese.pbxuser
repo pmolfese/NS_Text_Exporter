@@ -1,0 +1,183 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {786, 867}}";
+			sepNavSelRange = "{78, 0}";
+			sepNavVisRect = "{{0, 0}, {786, 867}}";
+			sepNavWindowFrame = "{{15, 27}, {825, 996}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA /* Debug */;
+		activeExecutable = CFB503CA09EC434F003B4C61 /* NS_Text_Export */;
+		activeTarget = 8D1107260486CEB800E47090 /* NS_Text_Export */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* NS_Text_Export */,
+		);
+		breakpoints = (
+			CFD0142809F7D646001EA1DA /* UIControl.m:43 */,
+		);
+		breakpointsGroup = CF5ADD5D09F4365D00D98A51 /* XCBreakpointsBucket */;
+		codeSenseManager = CFB503DB09EC4365003B4C61 /* Code sense */;
+		executables = (
+			CFB503CA09EC434F003B4C61 /* NS_Text_Export */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					210,
+					20,
+					110,
+					109,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					317,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 167236420;
+			PBXWorkspaceStateSaveDate = 167236420;
+		};
+		sourceControlManager = CFB503DA09EC4365003B4C61 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* NS_Text_Export */ = {
+		activeExec = 0;
+		executables = (
+			CFB503CA09EC434F003B4C61 /* NS_Text_Export */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {786, 867}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {786, 867}}";
+			sepNavWindowFrame = "{{38, 6}, {825, 996}}";
+		};
+	};
+	CF5ADD5D09F4365D00D98A51 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			CFD0142809F7D646001EA1DA /* UIControl.m:43 */,
+		);
+	};
+	CF7FF7FC09ED849700789F62 /* UIControl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {786, 867}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRect = "{{0, 0}, {786, 867}}";
+			sepNavWindowFrame = "{{500, 32}, {825, 996}}";
+		};
+	};
+	CF7FF7FD09ED849700789F62 /* UIControl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {786, 1064}}";
+			sepNavSelRange = "{1151, 0}";
+			sepNavVisRect = "{{0, 197}, {786, 867}}";
+			sepNavWindowFrame = "{{299, 32}, {825, 996}}";
+		};
+	};
+	CFB503CA09EC434F003B4C61 /* NS_Text_Export */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NS_Text_Export;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	CFB503D709EC4364003B4C61 /* EGIFile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {786, 867}}";
+			sepNavSelRange = "{625, 0}";
+			sepNavVisRect = "{{0, 0}, {786, 867}}";
+			sepNavWindowFrame = "{{15, 27}, {825, 996}}";
+		};
+	};
+	CFB503D809EC4364003B4C61 /* EGIFile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 3416}}";
+			sepNavSelRange = "{6647, 0}";
+			sepNavVisRect = "{{0, 2480}, {817, 545}}";
+			sepNavWindowFrame = "{{155, 32}, {825, 996}}";
+		};
+	};
+	CFB503DA09EC4365003B4C61 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	CFB503DB09EC4365003B4C61 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CFD0142809F7D646001EA1DA /* UIControl.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = CF7FF7FD09ED849700789F62 /* UIControl.m */;
+		functionName = "-convert:";
+		hitCount = 1;
+		lineNumber = 43;
+		modificationTime = 167237767.775095;
+		state = 1;
+	};
+}

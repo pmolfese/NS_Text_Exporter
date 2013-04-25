@@ -1,0 +1,152 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 750}}";
+			sepNavSelRange = "{84, 0}";
+			sepNavVisRange = "{0, 86}";
+			sepNavWindowFrame = "{{15, -5}, {762, 878}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = C144F4B90A0C1123008FBB42 /* NS_Text_Export */;
+		activeTarget = 8D1107260486CEB800E47090 /* NS_Text_Export */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* NS_Text_Export */,
+		);
+		codeSenseManager = C144F4CC0A0C114F008FBB42 /* Code sense */;
+		executables = (
+			C144F4B90A0C1123008FBB42 /* NS_Text_Export */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300914721;
+			PBXWorkspaceStateSaveDate = 300914721;
+		};
+		sourceControlManager = C144F4CB0A0C114F008FBB42 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 701}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {854, 701}}";
+			sepNavWindowFrame = "{{38, 22}, {893, 830}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* NS_Text_Export */ = {
+		activeExec = 0;
+		executables = (
+			C144F4B90A0C1123008FBB42 /* NS_Text_Export */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, -5}, {762, 878}}";
+		};
+	};
+	C144F4B90A0C1123008FBB42 /* NS_Text_Export */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NS_Text_Export;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C144F4CB0A0C114F008FBB42 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+		scmType = "";
+	};
+	C144F4CC0A0C114F008FBB42 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CF7FF7FC09ED849700789F62 /* UIControl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 687}}";
+			sepNavSelRange = "{169, 11}";
+			sepNavVisRange = "{0, 639}";
+			sepNavVisRect = "{{0, 0}, {732, 686}}";
+			sepNavWindowFrame = "{{15, 17}, {771, 815}}";
+		};
+	};
+	CF7FF7FD09ED849700789F62 /* UIControl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 1456}}";
+			sepNavSelRange = "{1852, 0}";
+			sepNavVisRange = "{0, 1688}";
+			sepNavVisRect = "{{0, 0}, {852, 703}}";
+			sepNavWindowFrame = "{{372, 46}, {891, 832}}";
+		};
+	};
+	CFB503D709EC4364003B4C61 /* EGIFile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {834, 702}}";
+			sepNavSelRange = "{350, 0}";
+			sepNavVisRange = "{0, 359}";
+			sepNavVisRect = "{{0, 0}, {854, 701}}";
+			sepNavWindowFrame = "{{15, 43}, {893, 830}}";
+		};
+	};
+	CFB503D809EC4364003B4C61 /* EGIFile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {860, 674}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRange = "{0, 755}";
+			sepNavVisRect = "{{0, 0}, {880, 673}}";
+			sepNavWindowFrame = "{{265, 76}, {919, 802}}";
+		};
+	};
+}
